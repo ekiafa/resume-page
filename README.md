@@ -1,4 +1,4 @@
-# README
+# Readme
 
 Personal resume page in Ruby on rails.
 
