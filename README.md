@@ -1,17 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Personal resume page in Ruby on rails.
 
-Things you may want to cover:
 
-* Ruby version
+
+<h3>Ruby version</h3>
 * 2.5.1
 
-* How to run the test suite
+-Execution
+
+rails server
 
 
-
-* Deployment instructions
-
-* ...
