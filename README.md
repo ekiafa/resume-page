@@ -9,6 +9,6 @@ Personal resume page in Ruby on rails.
 
 <h3>Execution</h3>
 
-rails server
+> rails server
 
 
