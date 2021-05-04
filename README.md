@@ -1,6 +1,6 @@
 # Readme
 
-Hi Github! 👋 Eftihia Kiafa here,future Software Enginner.
+Hi Github! 👋 Eftihia Kiafa here,future Software Engineer.
 
 Check out my personal resume page in Ruby on rails.
 
